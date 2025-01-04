@@ -1,27 +1,27 @@
-# MdFrontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
+![Logo-de-md](./public/md-logo.png)
 
-## Development server
+# ➕ MD PROJECT ➕
+En la actualidad, la tecnología y la información están revolucionando diversos sectores, y la salud no es una excepción. La creciente complejidad de las condiciones médicas y la abundancia de datos clínicos requieren herramientas más eficientes para los profesionales de la salud. En este contexto, MD se posiciona como una innovadora aplicación web diseñada exclusivamente para médicos, con el propósito de agilizar y facilitar el diagnóstico clínico de manera eficiente y precisa.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## ✨MD-FRONTEND✨
+---
+El proyecto MD está organizado en forma de microservicios. 
+Bajo este concepto este microservicio se presenta como el frontend de todo el proyecto, que contendrá toda la logica relacionada a la experiencia del propio usuario
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## 👥 Autoria
+---
+- Michelle Paola Riveros: [MichelleRiveros](https://github.com/MichelleRiveros)
+- Sofia Marcela Medina: [S0fiaMedina](https://github.com/S0fiaMedina)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 👨‍💻 Stack
+---
+- SCSS
+- Angular v18
+- TypeScript
+- HTML
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.

@@ -72,7 +72,9 @@
               "buildTarget": "md-frontend:build:production"
             },
             "development": {
-              "buildTarget": "md-frontend:build:development"
+              "buildTarget": "md-frontend:build:development",
+              "proxyConfig": "proxy.conf.js"
+        
             }
           },
           "defaultConfiguration": "development"
@@ -103,5 +105,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
